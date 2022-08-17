@@ -7,4 +7,7 @@ input: <br>
 output:<br>
 <img src="https://cdn.discordapp.com/attachments/918571595709161503/1009357817666355200/output.png" alt="">
 
-<p>dependencies: pillow (`pip install pillow`)</p>
+how to use: <br>
+`git clone https://github.com/exhq/gifpaint` <br>
+`cd gifpaint` <br>
+`pip install -r requirements.txt`
