@@ -13,6 +13,6 @@ the `-d` argument is optional, it changes how long every frame's duration is (ex
 
 example usage: 
 
-`./main.py -d 50 -g .png`
+`./main.py -d 50 -g ~/input.png`
 
 `./main.py -p ~/input.gif`
